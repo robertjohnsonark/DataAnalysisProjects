@@ -1,3 +1,7 @@
+## My code
+- I solved all the tasks in a Jupyter Notebook file called MyAnalysis.ipynb
+- I was given 12 files. A file for each month of Sales data. I merged all of that data into one file called all_data.csv
+
 ## Background Information:
 
 This repo goes with [a video](https://youtu.be/eMOA1pPVUc4) on "Solving real world data science videos with Python Pandas!". Here is some information on that video.
@@ -25,7 +29,3 @@ To answer these questions we walk through many different pandas & matplotlib met
 - Using groupby to perform aggregate analysis
 - Plotting bar charts and lines graphs to visualize our results
 - Labeling our graphs
-
-## My code
-- I solved all the tasks in a Jupyter Notebook file called MyAnalysis.ipynb
-- I was given 12 files. A file for each month of Sales data. I merged all of that data into one file called all_data.csv

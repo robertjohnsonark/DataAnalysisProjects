@@ -1,6 +1,6 @@
 # Data Analysis projects
 
-Set of real world data science tasks completed using the Python Pandas library.
+Set of real world data analysis/science tasks gathered from multiple resources like follow along youtube videos, competitions from ScrataScratch and Kaggle, questions from InterviewQs, etc.
 
 I am using these projects to get hands on experience and test what I have learned from multiple resources. The goal is not just to gain knowledge but be proficient.
 

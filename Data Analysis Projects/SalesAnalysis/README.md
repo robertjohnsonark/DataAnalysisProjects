@@ -1,4 +1,4 @@
-## My code
+## My work/code
 - I solved all the tasks in a Jupyter Notebook file called MyAnalysis.ipynb
 - I was given 12 files. A file for each month of Sales data. I merged all of that data into one file called all_data.csv
 

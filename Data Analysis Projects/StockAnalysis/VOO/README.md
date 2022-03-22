@@ -1,4 +1,4 @@
------------------Inspired by a video from Shashank again. The price data was pulled from Yahoo Finance's historical data of VOO.------------------
+-----------------Inspired by a video from Shashank again. The price data was pulled from Yahoo Finance's historical data of VOO.-----------------
 
 This project tests the best days to invest in the stock VOO (index fund of the S&P 500). The backtester method checks which day was the best if you invested $750 on the same weekday everytime.
 
